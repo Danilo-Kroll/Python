@@ -7,7 +7,7 @@ Exercícios resolvidos do curso de fundamentos de Python, ministrado pelo prof. 
 ## Mundo 1
 
 ### Primeiros passos
-ex001 - Deixando tudo pronto<br>
+ex001 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex001.py">Deixando tudo pronto</a><br>
 ex002 - Respondendo ao usuário<br>
 ex003 - Somando dois números<br>
 ex004 - Dissecando uma variável<br>

@@ -41,3 +41,13 @@ ex024 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex025 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex025.py">Procurando uma string dentro de outra</a><br>
 ex026 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex026.py">Primeira e última ocorrência de uma string</a><br>
 ex027 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex027.py">Primeiro e último nome de uma pessoa</a><br>
+
+### Condições (if...else)
+ex028 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex028.py">Jogo da Adivinhação v1.0</a><br>
+ex029 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex029.py">Radar eletrônico</a><br>
+ex030 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex030.py">Par ou ímpar?</a><br>
+ex031 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex031.py">Custo da viagem</a><br>
+ex032 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex032.py">Ano bissexto</a><br>
+ex033 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex033.py">Maior e menor valores</a><br>
+ex034 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex034.py">Aumentos múltiplos</a><br>
+ex035 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex035.py">Analisando triângulo v1.0</a><br>

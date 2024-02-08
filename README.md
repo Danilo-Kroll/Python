@@ -51,3 +51,11 @@ ex032 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex033 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex033.py">Maior e menor valores</a><br>
 ex034 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex034.py">Aumentos múltiplos</a><br>
 ex035 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex035.py">Analisando triângulo v1.0</a><br>
+
+## Mundo 2
+
+### Condições Aninhadas (if...elif)
+ex036 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex036.py">Aprovando empréstimo</a><br>
+ex037 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex037.py">Conversor de bases numéricas</a><br>
+ex038 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex038.py">Comparando números</a><br>
+ex039 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex039.py">Alistamento militar</a><br>

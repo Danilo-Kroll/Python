@@ -8,9 +8,13 @@ ano = int(input("Informe seu ano de nascimento: "))
 
 idade = datetime.date.today().year - ano
 
+alistar = idade - 18
+
 if idade < 18:
 	print("Ainda não está no prazo de se alistar! {} anos.".format(idade))
+	print("Faltam {} anos para os seu alistamento.".format(alistar * -1))
 elif idade == 18:
 	print("É hora de se alistar! {} anos.".format(idade))
 else:
 	print("Passou do tempo do alistamento! {} anos.".format(idade))
+	print("Já se passaram {} anos do seu alistamento.".format(alistar))

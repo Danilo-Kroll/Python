@@ -6,7 +6,7 @@ Exercícios resolvidos do curso de fundamentos de Python, ministrado pelo prof. 
 
 ## Mundo 1
 
-### Primeiros passos
+#### Primeiros passos
 ex001 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex001.py">Deixando tudo pronto</a><br>
 ex002 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex002.py">Respondendo ao usuário</a><br>
 ex003 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex003.py">Somando dois números</a><br>

@@ -65,3 +65,16 @@ ex042 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex043 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex043.py">Índice de Massa Corporal</a><br>
 ex044 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex044.py">Gerenciador de pagamentos</a><br>
 ex045 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex045.py">GAME: Pedra, Papel e Tesoura</a><br>
+
+### Estrutura de Repetição (for)
+ex046 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Contagem regressiva</a><br>
+ex047 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex047.py">Contagem de pares</a><br>
+ex048 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex048.py">Soma ímpares múltiplos de três</a><br>
+ex049 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex049.py">Tabuada v2.0</a><br>
+ex050 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex050.py">Soma dos pares</a><br>
+ex051 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex051.py">Progressão Aritmética</a><br>
+ex052 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex052.py">Números primos</a><br>
+ex053 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex053.py">Detector de palíndromo</a><br>
+ex054 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex054.py">Grupo da maioridade</a><br>
+ex055 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex055.py">Maior e menor da sequência</a><br>
+ex056 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex056.py">Analisador completo</a><br>

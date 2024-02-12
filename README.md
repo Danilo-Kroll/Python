@@ -2,9 +2,9 @@
 
 Exercícios resolvidos do curso de fundamentos de Python, ministrado pelo prof. Gustavo Guanabara do canal Curso em Vídeo.
 
-## Lista de exercícios resolvidos
+### Lista de exercícios resolvidos
 
-## Mundo 1
+### Mundo 1
 
 #### Primeiros passos
 ex001 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex001.py">Deixando tudo pronto</a><br>
@@ -26,7 +26,7 @@ ex013a - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex
 ex014 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex014.py">Conversor de temperaturas</a><br>
 ex015 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex015.py">Aluguel de carros</a><br>
 
-### Utilizando Módulos
+#### Utilizando Módulos
 ex016 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex016.py">Quebrando um número</a><br>
 ex017 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex017.py">Catetos e hipotenusa</a><br>
 ex018 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex018.py">Seno, cosseno e tangente</a><br>
@@ -34,7 +34,7 @@ ex019 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex020 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex020.py">Sorteando uma ordem na lista</a><br>
 ex021 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex021.py">Tocando um MP3</a><br>
 
-### Manipulando Texto
+#### Manipulando Texto
 ex022 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex022.py">Analisador de textos</a><br>
 ex023 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex023.py">Separando dígitos de um número</a><br>
 ex024 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex024.py">Verificando as primeiras letras de um texto</a><br>
@@ -42,7 +42,7 @@ ex025 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex026 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex026.py">Primeira e última ocorrência de uma string</a><br>
 ex027 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex027.py">Primeiro e último nome de uma pessoa</a><br>
 
-### Condições (if...else)
+#### Condições (if...else)
 ex028 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex028.py">Jogo da Adivinhação v1.0</a><br>
 ex029 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex029.py">Radar eletrônico</a><br>
 ex030 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex030.py">Par ou ímpar?</a><br>
@@ -52,9 +52,9 @@ ex033 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex034 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex034.py">Aumentos múltiplos</a><br>
 ex035 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex035.py">Analisando triângulo v1.0</a><br>
 
-## Mundo 2
+### Mundo 2
 
-### Condições Aninhadas (if...elif)
+#### Condições Aninhadas (if...elif)
 ex036 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex036.py">Aprovando empréstimo</a><br>
 ex037 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex037.py">Conversor de bases numéricas</a><br>
 ex038 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex038.py">Comparando números</a><br>
@@ -66,7 +66,7 @@ ex043 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex044 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex044.py">Gerenciador de pagamentos</a><br>
 ex045 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex045.py">GAME: Pedra, Papel e Tesoura</a><br>
 
-### Estrutura de Repetição (for)
+#### Estrutura de Repetição (for)
 ex046 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Contagem regressiva</a><br>
 ex047 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex047.py">Contagem de pares</a><br>
 ex048 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex048.py">Soma ímpares múltiplos de três</a><br>

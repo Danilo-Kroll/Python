@@ -12,7 +12,7 @@ ex002 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex003 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex003.py">Somando dois números</a><br>
 ex004 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex004.py">Dissecando uma variável</a><br>
 
-### Operadores Aritméticos
+#### Operadores Aritméticos
 ex005 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex005.py">Antecessor e sucessor</a><br>
 ex006 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex006.py">Dobro, triplo e raiz quadrada</a><br>
 ex007 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex007.py">Média aritmética</a><br>

@@ -78,3 +78,5 @@ ex053 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex054 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex054.py">Grupo da maioridade</a><br>
 ex055 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex055.py">Maior e menor da sequência</a><br>
 ex056 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex056.py">Analisador completo</a><br>
+
+#### Estrutura de Repetição (while)

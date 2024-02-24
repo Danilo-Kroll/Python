@@ -80,3 +80,18 @@ ex055 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex056 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex056.py">Analisador completo</a><br>
 
 #### Estrutura de Repetição (while)
+ex057 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Validação de dados</a><br>
+ex058 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Jogo da adivinhação v2.0</a><br>
+ex059 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Criando um menu de opções</a><br>
+ex060 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Cálculo do fatorial</a><br>
+ex061 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Progressão aritmética v2.0</a><br>
+ex062 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Super Progressão Aritmética v3.0</a><br>
+ex063 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Sequência de Fibonacci v1.0</a><br>
+ex064 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Tratando vários valores v1.0</a><br>
+ex065 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Maior e menor valores</a><br>
+ex066 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Vários números com flag</a><br>
+ex067 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Tabuada v3.0</a><br>
+ex068 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Jogo do par ou ímpar</a><br>
+ex069 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Análise de dados do grupo</a><br>
+ex070 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Estatística de produtos</a><br>
+ex071 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex046.py">Simulador de caixa eletrônico</a><br>

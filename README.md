@@ -89,6 +89,8 @@ ex062 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex063 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex063.py">Sequência de Fibonacci v1.0</a><br>
 ex064 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex064.py">Tratando vários valores v1.0</a><br>
 ex065 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex065.py">Maior e menor valores</a><br>
+
+#### Interrompendo Repetição (while)
 ex066 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex066.py">Vários números com flag</a><br>
 ex067 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex067.py">Tabuada v3.0</a><br>
 ex068 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex068.py">Jogo do par ou ímpar</a><br>

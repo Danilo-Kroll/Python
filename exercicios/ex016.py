@@ -10,7 +10,6 @@ print("Sua porção inteira é {}.".format(math.trunc(num)))
 # Opção 2 -> sem pacote
 print("Sua porção inteira é {}.".format(int(num)))
 
-
 # Opção 3 -> indicando a biblioteca
 from math import trunc
 

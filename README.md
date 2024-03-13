@@ -97,3 +97,7 @@ ex068 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex069 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex069.py">Análise de dados do grupo</a><br>
 ex070 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex070.py">Estatística de produtos</a><br>
 ex071 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex071.py">Simulador de caixa eletrônico</a><br>
+
+### Mundo 3
+
+#### ...

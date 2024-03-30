@@ -100,4 +100,10 @@ ex071 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 
 ### Mundo 3
 
-#### ...
+#### Tuplas
+ex072 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex072.py">Número por extenso</a><br>
+ex073 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex073.py">uplas com times de futebol</a><br>
+ex074 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex074.py">Maior e menor valores em tupla</a><br>
+ex075 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex075.py">Análise de dados em uma tupla</a><br>
+ex076 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex076.py">Lista de preços com tupla</a><br>
+ex077 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex077.py">Contando vogais em tupla</a><br>

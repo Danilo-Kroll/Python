@@ -109,52 +109,52 @@ ex076 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex077 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex077.py">Contando vogais em tupla</a><br>
 
 #### Lista (Parte 1)
-078 - Maior e menor valores na lista
-079 - Valores únicos em uma lista
-080 - Lista ordenada sem repetições
-081 - Extraindo dados de uma lista
-082 - Dividindo valores em várias listas
-083 - Validando expressões matemáticas
+ex078 - Maior e menor valores na lista<br>
+ex079 - Valores únicos em uma lista<br>
+ex080 - Lista ordenada sem repetições<br>
+ex081 - Extraindo dados de uma lista<br>
+ex082 - Dividindo valores em várias listas<br>
+ex083 - Validando expressões matemáticas<br>
 
 #### Lista (Parte 2)
-084 - Lista composta e análise de dados
-085 - Listas com pares e ímpares
-086 - Matrix em Python
-087 - Mais sobre matriz em Python
-088 - Palpites para a Mega-Sena
-089 - Boletim com listas compostas
+ex084 - Lista composta e análise de dados<br>
+ex085 - Listas com pares e ímpares<br>
+ex086 - Matrix em Python<br>
+ex087 - Mais sobre matriz em Python<br>
+ex088 - Palpites para a Mega-Sena<br>
+ex089 - Boletim com listas compostas<br>
 
 #### Dicionários
-090 - Dicionário em Python
-091 - Jogo de dados em Python
-092 - Cadastro de trabalhador em Python
-093 - Cadastro de jogador de futebol
-094 - Unindo dicionários e listas
-095 - Aprimorando dicionários
+ex090 - Dicionário em Python<br>
+ex091 - Jogo de dados em Python<br>
+ex092 - Cadastro de trabalhador em Python<br>
+ex093 - Cadastro de jogador de futebol<br>
+ex094 - Unindo dicionários e listas<br>
+ex095 - Aprimorando dicionários<br>
 
 #### Funções (Parte 1)
-096 - Função que calcula área
-097 - Um print especial
-098 - Função de contador
-099 - Função que descobre o maior
-100 - Funções para sortear e somar
+ex096 - Função que calcula área<br>
+ex097 - Um print especial<br>
+ex098 - Função de contador<br>
+ex099 - Função que descobre o maior<br>
+ex100 - Funções para sortear e somar<br>
 
 #### Funções (Parte 2)
-101 - Funções para votação
-102 - Função para fatorial
-103 - Ficha do jogador
-104 - Validando entrada de dados em Python
-105 - Analisando e gerando dicionários
-106 - Sistema interativo de ajuda em Python
+ex101 - Funções para votação<br>
+ex102 - Função para fatorial<br>
+ex103 - Ficha do jogador<br>
+ex104 - Validando entrada de dados em Python<br>
+ex105 - Analisando e gerando dicionários<br>
+ex106 - Sistema interativo de ajuda em Python<br>
 
 #### Modulos e Pacotes
-107 - Exercitando módulos em Python
-108 - Formatando moedas em Python
-109 - Formatando moedas em Python
-110 - Reduzindo ainda mais seu programa
-111 - Transformando módulos em pacotes
-112 - Entrada de dados monetários
+ex107 - Exercitando módulos em Python<br>
+ex108 - Formatando moedas em Python<br>
+ex109 - Formatando moedas em Python<br>
+ex110 - Reduzindo ainda mais seu programa<br>
+ex111 - Transformando módulos em pacotes<br>
+ex112 - Entrada de dados monetários<br>
 
 #### Tratamento de Erros e Exceções
-113 - Funções aprofundadas em Python
-114 - Site está acessível?
+ex113 - Funções aprofundadas em Python<br>
+ex114 - Site está acessível?

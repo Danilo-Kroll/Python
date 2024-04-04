@@ -107,3 +107,54 @@ ex074 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex075 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex075.py">Análise de dados em uma tupla</a><br>
 ex076 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex076.py">Lista de preços com tupla</a><br>
 ex077 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex077.py">Contando vogais em tupla</a><br>
+
+#### Lista (Parte 1)
+078 - Maior e menor valores na lista
+079 - Valores únicos em uma lista
+080 - Lista ordenada sem repetições
+081 - Extraindo dados de uma lista
+082 - Dividindo valores em várias listas
+083 - Validando expressões matemáticas
+
+#### Lista (Parte 2)
+084 - Lista composta e análise de dados
+085 - Listas com pares e ímpares
+086 - Matrix em Python
+087 - Mais sobre matriz em Python
+088 - Palpites para a Mega-Sena
+089 - Boletim com listas compostas
+
+#### Dicionários
+090 - Dicionário em Python
+091 - Jogo de dados em Python
+092 - Cadastro de trabalhador em Python
+093 - Cadastro de jogador de futebol
+094 - Unindo dicionários e listas
+095 - Aprimorando dicionários
+
+#### Funções (Parte 1)
+096 - Função que calcula área
+097 - Um print especial
+098 - Função de contador
+099 - Função que descobre o maior
+100 - Funções para sortear e somar
+
+#### Funções (Parte 2)
+101 - Funções para votação
+102 - Função para fatorial
+103 - Ficha do jogador
+104 - Validando entrada de dados em Python
+105 - Analisando e gerando dicionários
+106 - Sistema interativo de ajuda em Python
+
+#### Modulos e Pacotes
+107 - Exercitando módulos em Python
+108 - Formatando moedas em Python
+109 - Formatando moedas em Python
+110 - Reduzindo ainda mais seu programa
+111 - Transformando módulos em pacotes
+112 - Entrada de dados monetários
+
+#### Tratamento de Erros e Exceções
+113 - Funções aprofundadas em Python
+114 - Site está acessível?

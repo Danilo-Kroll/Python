@@ -109,52 +109,52 @@ ex076 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex0
 ex077 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex077.py">Contando vogais em tupla</a><br>
 
 #### Lista (Parte 1)
-ex078 - Maior e menor valores na lista<br>
-ex079 - Valores únicos em uma lista<br>
-ex080 - Lista ordenada sem repetições<br>
-ex081 - Extraindo dados de uma lista<br>
-ex082 - Dividindo valores em várias listas<br>
-ex083 - Validando expressões matemáticas<br>
+ex078 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex078.py">Maior e menor valores na lista</a><br>
+ex079 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex079.py">Valores únicos em uma lista</a><br>
+ex080 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex080.py">Lista ordenada sem repetições</a><br>
+ex081 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex081.py">Extraindo dados de uma lista</a><br>
+ex082 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex082.py">Dividindo valores em várias listas</a><br>
+ex083 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex083.py">Validando expressões matemáticas</a><br>
 
 #### Lista (Parte 2)
-ex084 - Lista composta e análise de dados<br>
-ex085 - Listas com pares e ímpares<br>
-ex086 - Matrix em Python<br>
-ex087 - Mais sobre matriz em Python<br>
-ex088 - Palpites para a Mega-Sena<br>
-ex089 - Boletim com listas compostas<br>
+ex084 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex084.py">Lista composta e análise de dados</a><br>
+ex085 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex085.py">Listas com pares e ímpares</a><br>
+ex086 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex086.py">Matrix em Python</a><br>
+ex087 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex087.py">Mais sobre matriz em Python</a><br>
+ex088 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex088.py">Palpites para a Mega-Sena</a><br>
+ex089 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex089.py">Boletim com listas compostas</a><br>
 
 #### Dicionários
-ex090 - Dicionário em Python<br>
-ex091 - Jogo de dados em Python<br>
-ex092 - Cadastro de trabalhador em Python<br>
-ex093 - Cadastro de jogador de futebol<br>
-ex094 - Unindo dicionários e listas<br>
-ex095 - Aprimorando dicionários<br>
+ex090 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex090.py">Dicionário em Python</a><br>
+ex091 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex091.py">Jogo de dados em Python</a><br>
+ex092 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex092.py">Cadastro de trabalhador em Python</a><br>
+ex093 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex093.py">Cadastro de jogador de futebol</a><br>
+ex094 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex094.py">Unindo dicionários e listas</a><br>
+ex095 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex095.py">Aprimorando dicionários</a><br>
 
 #### Funções (Parte 1)
-ex096 - Função que calcula área<br>
-ex097 - Um print especial<br>
-ex098 - Função de contador<br>
-ex099 - Função que descobre o maior<br>
-ex100 - Funções para sortear e somar<br>
+ex096 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex096.py">Função que calcula área</a><br>
+ex097 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex097.py">Um print especial</a><br>
+ex098 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex098.py">Função de contador</a><br>
+ex099 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex099.py">Função que descobre o maior</a><br>
+ex100 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex100.py">Funções para sortear e somar</a><br>
 
 #### Funções (Parte 2)
-ex101 - Funções para votação<br>
-ex102 - Função para fatorial<br>
-ex103 - Ficha do jogador<br>
-ex104 - Validando entrada de dados em Python<br>
-ex105 - Analisando e gerando dicionários<br>
-ex106 - Sistema interativo de ajuda em Python<br>
+ex101 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex101.py">Funções para votação</a><br>
+ex102 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex102.py">Função para fatorial</a><br>
+ex103 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex103.py">Ficha do jogador</a><br>
+ex104 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex104.py">Validando entrada de dados em Python</a><br>
+ex105 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex105.py">Analisando e gerando dicionários</a><br>
+ex106 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex106.py">Sistema interativo de ajuda em Python</a><br>
 
 #### Modulos e Pacotes
-ex107 - Exercitando módulos em Python<br>
-ex108 - Formatando moedas em Python<br>
-ex109 - Formatando moedas em Python<br>
-ex110 - Reduzindo ainda mais seu programa<br>
-ex111 - Transformando módulos em pacotes<br>
-ex112 - Entrada de dados monetários<br>
+ex107 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex107.py">Exercitando módulos em Python</a><br>
+ex108 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex108.py">Formatando moedas em Python</a><br>
+ex109 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex109.py">Formatando moedas em Python</a><br>
+ex110 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex110.py">Reduzindo ainda mais seu programa</a><br>
+ex111 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex111.py">Transformando módulos em pacotes</a><br>
+ex112 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex112.py">Entrada de dados monetários</a><br>
 
 #### Tratamento de Erros e Exceções
-ex113 - Funções aprofundadas em Python<br>
-ex114 - Site está acessível?
+ex113 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex113.py">Funções aprofundadas em Python</a><br>
+ex114 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex114.py">Site está acessível?</a>

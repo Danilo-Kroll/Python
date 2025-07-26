@@ -148,12 +148,12 @@ ex105 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex1
 ex106 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex106.py">Sistema interativo de ajuda em Python</a><br>
 
 #### Modulos e Pacotes
-ex107 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex107.py">Exercitando módulos em Python</a><br>
-ex108 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex108.py">Formatando moedas em Python</a><br>
-ex109 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex109.py">Formatando moedas em Python</a><br>
-ex110 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex110.py">Reduzindo ainda mais seu programa</a><br>
-ex111 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex111.py">Transformando módulos em pacotes</a><br>
-ex112 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex112.py">Entrada de dados monetários</a><br>
+ex107 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex107">Exercitando módulos em Python</a><br>
+ex108 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex108">Formatando moedas em Python</a><br>
+ex109 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex109">Formatando moedas em Python</a><br>
+ex110 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex110">Reduzindo ainda mais seu programa</a><br>
+ex111 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex111">Transformando módulos em pacotes</a><br>
+ex112 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex112">Entrada de dados monetários</a><br>
 
 #### Tratamento de Erros e Exceções
 ex113 - <a href="https://github.com/Danilo-Kroll/Python/blob/main/exercicios/ex113.py">Funções aprofundadas em Python</a><br>
